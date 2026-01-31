@@ -10,7 +10,7 @@ Welcome to the **PXFROG** digital pond. We craft lightweight, pixelated software
 
 ## 🔗 Connect
 - **Website**: [https://pxfrog.com](https://pxfrog.com)
-- **Lab**: [Ada's Workshop](https://pxfrog.com)
+- **Lab**: [Ada's Workshop](https://pxfrog.com/ada/index.html)
 
 ---
 "Hand-crafted with love for the retro aesthetic and modern efficiency."
